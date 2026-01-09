@@ -94,14 +94,6 @@ Creemos en la innovación, la excelencia técnica y el diseño que marca la dife
 
 </div>
 
-## 📊 Nuestros Proyectos Destacados
-
-Explora algunos de nuestros trabajos y proyectos open source:
-
-- **[graph-page](https://github.com/Graph/graph-page)** - Nuestro sitio web corporativo con View Transitions API y React 19
-- **[portfolio](https://github.com/Graph/portfolio)** - Portfolio interactivo con animaciones modernas
-- **[luzyvida-landing](https://github.com/Graph/luzyvida-landing)** - Landing page profesional para cliente destacado
-
 ## 🌟 Por qué Elegirnos
 
 - ✅ **Experiencia Comprobada** - Años de trayectoria en el mercado digital
@@ -140,9 +132,9 @@ graph LR
 ### 📞 Contáctanos
 
 📧 **Email:** info@graph.com.ar  
-📱 **WhatsApp:** +54 9 11 XXXX-XXXX  
+📱 **WhatsApp:** +598 98 095 192 
 🌐 **Web:** [graph.com.ar](https://graph.com.ar)  
-📍 **Ubicación:** Buenos Aires, Argentina
+📍 **Ubicación:** Bella Unión, Uruguay
 
 [💬 Iniciar Conversación](https://wa.me/5491234567890) • [📋 Ver Portfolio](https://graph.com.ar/portfolio) • [📝 Pedir Cotización](mailto:info@graph.com.ar)
 
@@ -183,7 +175,7 @@ Compartimos conocimiento con la comunidad:
 <div align="center">
 
 **© 2026 Graph Agencia Digital**  
-*Hecho con ❤️, ☕ y mucho código en Buenos Aires, Argentina*
+*Hecho con ❤️, ☕ y mucho código en Bella Unión, Uruguay*
 
 **Síguenos en redes sociales**  
 [Instagram](https://instagram.com/graph) • [LinkedIn](https://linkedin.com/company/graph) • [Behance](https://behance.net/graph)
